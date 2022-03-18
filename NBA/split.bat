@@ -8,7 +8,7 @@ mkdir .\stats
 
 
 for /F "tokens=1,2 delims=," %%A in (list.csv) do (
-tail -20 %%A| gawk -F"," '{print $7}' >> %%B
+tail -10 %%A| gawk -F"," '{print $7}' >> %%B
 
 )
 
