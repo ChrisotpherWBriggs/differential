@@ -1,0 +1,27 @@
+1 	list road teams opponents and find avg points scored and points allowed
+
+2 	add the points scored and find the average then add the points allowed and find the 		average
+
+3 	divide road teams points scored by the opponents average points allowed = offensive 		percentage
+
+4 	divide road teams points allowed by the opponents average points scored = defensive 		percentage 
+
+5	list home teams opponents and find the average points scored and points allowed	
+
+6	add the points scored and find the average then add the points allowed and find the 		average
+
+7	divide the road teams points scored by the opponents average points allowed = offensive 	percentage
+
+8	divide the roadteams points allowed by the opponents average points scored = defensive 		percentage
+
+9	add road teams offensive percentage to home teams defensive percentage and divide by 2 		= road performance figure
+
+10	add home teams offensive percentage to home teams defensive percentage and divide by 2 		= home performance figure
+
+11	add road teams points scored to home teams points allowed and divide by 2 = road 		offensive number
+
+12	add home teams points scored to home road teams points allowed and divide by 2 = home 		offensive number
+
+13	multiply road offensive number by road performance figure and subtract 2 this is their 		expected points 
+
+14	multiply home offensive number by home performance figure and add 2 this is their 		expected points
